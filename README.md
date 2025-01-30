@@ -1,2 +1,3 @@
 # My_Work_Portfolio-
-A collection of my work for recruiters and hiring managers to view. 
+Welcome to my portfolio! 
+It is a collection of my work. Behold!
