@@ -5,7 +5,8 @@ This repository showcases my data analytics projects, where I apply statistical 
 
 ### 📝 **FEATURED PROJECTS**
 
-**`1. YouTube Analytics Regression Project`**  
+**`1. YouTube Analytics Regression Project`** 
+🔗 [https://github.com/Pooja-Shan/My_Work_Portfolio-/tree/main/YouTube-Analytics-Regression-Project]
 - Analyzed 5,000 YouTube channels to identify key drivers of engagement and growth using EDA and multiple linear regression.
 - Addressed `Multicollinearity` and `Scale Bias`.
 - Introduced a normalized term `Engagement Rate` instead of the absolute Engagement value.
