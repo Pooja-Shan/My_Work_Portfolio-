@@ -33,7 +33,7 @@ Analyze 5,000 YouTube channels to identify the key factors influencing viewer en
 
 
 ### 🪛 **Tools Used**  
-Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
+MS Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels) and Power BI
 
 
 ### 📁 **Project File**  
