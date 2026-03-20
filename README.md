@@ -9,10 +9,11 @@ This repository showcases my data analytics projects, where I apply statistical 
 - Addressed `Multicollinearity` and `Scale Bias`.
 - Introduced a normalized term `Engagement Rate` instead of the absolute Engagement value.
 - Provided business recommendations to improve engagement metrics.
+
 **Note -** The tools used in this project were -
-- MS Excel 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
-- Power BI
+           1. MS Excel 
+           2. Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
+           3. Power BI
 
 
 ### 🌍 **EXPLORE MORE**
