@@ -1,6 +1,24 @@
-## Welcome to My Work Portfolio 🌟
+### 📂 **DATA ANALYTICS PORTFOLIO**
+This repository showcases my data analytics projects, where I apply statistical analysis, data visualization, and machine learning techniques to solve real-world business problems.
 
-- Explore the realm where creativity meets analytics! This is the showcase of my projects—the foundation of my passion and expertise.
-- Step into the world where ideas come to life and data transforms into impactful visuals. The magic begins here!✨
-- 🔗 Check out my Tableau Public profile for a glimpse of my Tableau masterpieces:
+
+### 📝 **FEATURED PROJECTS**
+
+1. **YouTube Analytics Regression Project**  
+- Analyzed 5,000 YouTube channels to identify key drivers of engagement and growth using EDA and multiple linear regression.
+- Addressed `Multicollinearity` and `Scale Bias`.
+- Introduced a normalized term `Engagement Rate` instead of the absolute Engagement value.
+- Provided business recommendations to improve engagement metrics.
+**Note -** The tools used in this project were -
+- MS Excel 
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
+- Power BI
+
+
+### 🌍 **EXPLORE MORE**
+**Tableau Portfolio** -  
 https://public.tableau.com/app/profile/pooja.shankavaram/vizzes
+
+
+### ✏️ **ABOUT THIS PORTFOLIO**
+This repository reflects my journey of building end-to-end data analytics projects focused on deriving actionable business insights.
