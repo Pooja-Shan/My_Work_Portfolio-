@@ -5,16 +5,16 @@ This repository showcases my data analytics projects, where I apply statistical 
 
 ### 📝 **FEATURED PROJECTS**
 
-1. **YouTube Analytics Regression Project**  
+**`1. YouTube Analytics Regression Project`**  
 - Analyzed 5,000 YouTube channels to identify key drivers of engagement and growth using EDA and multiple linear regression.
 - Addressed `Multicollinearity` and `Scale Bias`.
 - Introduced a normalized term `Engagement Rate` instead of the absolute Engagement value.
 - Provided business recommendations to improve engagement metrics.
 
    **Note -** The tools used in this project were -
-1. MS Excel
-2. Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
-3. Power BI
+* MS Excel
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
+* Power BI
 
 ---
 
