@@ -1,6 +1,7 @@
 ### 📂 **DATA ANALYTICS PORTFOLIO**
 This repository showcases my data analytics projects, where I apply statistical analysis, data visualization, and machine learning techniques to solve real-world business problems.
 
+---
 
 ### 📝 **FEATURED PROJECTS**
 
@@ -15,11 +16,13 @@ This repository showcases my data analytics projects, where I apply statistical 
 2. Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
 3. Power BI
 
+---
 
 ### 🌍 **EXPLORE MORE**
 **Tableau Portfolio** -  
 https://public.tableau.com/app/profile/pooja.shankavaram/vizzes
 
+---
 
 ### ✏️ **ABOUT THIS PORTFOLIO**
 This repository reflects my journey of building end-to-end data analytics projects focused on deriving actionable business insights.
