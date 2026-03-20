@@ -1,4 +1,4 @@
-### 📂 **DATA ANALYTICS PORTFOLIO**
+### 📂 **DATA ANALYTICS PORTFOLIO | Python • SQL • Power BI**
 This repository showcases my data analytics projects, where I apply statistical analysis, data visualization, and machine learning techniques to solve real-world business problems.
 
 ---
