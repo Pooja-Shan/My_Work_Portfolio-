@@ -17,7 +17,10 @@ Analyze 5,000 YouTube channels to identify the key factors influencing viewer en
 - Scale Bias in engagement metrics  
 
 **Enhancement -**  
-- Introduced **`Engagement Rate`** as a normalized metric  
+- Introduced **`Engagement Rate`** as a normalized metric
+
+**Data Visualization -**
+- Built a Power BI report with a scatter plot, key KPIs, funnel chart and business recommendations
 
 
 ### 🔍 **Key Insights -**  
