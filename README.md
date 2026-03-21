@@ -10,7 +10,8 @@ This repository showcases my data analytics projects, where I apply statistical 
 - Analyzed 5,000 YouTube channels to identify key drivers of engagement and growth using EDA and multiple linear regression.
 - Addressed `Multicollinearity` and `Scale Bias`.
 - Introduced a normalized term `Engagement Rate` instead of the absolute Engagement value.
-- Provided business recommendations to improve engagement metrics.
+- Built a Power BI report that analyzes the relationship between average video length and engagement rate, presents the top 10 performing YouTube channels by Content Value Index and highlights key KPIs. 
+- Provided business recommendations in both the Jupyter Notebook and Power BI report to improve engagement metrics.
 
    **Note -** The tools used in this project were -
 * MS Excel
@@ -19,8 +20,7 @@ This repository showcases my data analytics projects, where I apply statistical 
 
 ---
 
-### 🌍 **EXPLORE MORE**
-**Tableau Portfolio** -  
+### 📊 **TABLEAU PORTFOLIO**  
 https://public.tableau.com/app/profile/pooja.shankavaram/vizzes
 
 ---
