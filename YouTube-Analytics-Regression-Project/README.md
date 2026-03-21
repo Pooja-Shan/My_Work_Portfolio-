@@ -20,7 +20,7 @@ Analyze 5,000 YouTube channels to identify the key factors influencing viewer en
 - Introduced **`Engagement Rate`** as a normalized metric
 
 **Data Visualization -**
-- Built a Power BI report with a scatter plot, key KPIs, funnel chart and business recommendations
+- Built a Power BI report with a scatter plot, key KPIs, funnel chart and text boxes
 
 
 ### 🔍 **Key Insights -**  
