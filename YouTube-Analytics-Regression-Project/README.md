@@ -6,6 +6,10 @@ Identifying Key Drivers of Channel Growth and Engagement
 Analyze 5,000 YouTube channels to identify the key factors influencing viewer engagement and channel growth.
 
 
+### 📌 **Source of the Dataset -**
+This dataset was originally sourced from Kaggle (this dataset is currently unavailable on Kaggle). The dataset used for this analysis has been included in this repository for reproducibility. 
+
+
 ### 📝 **Approach -**  
 - Data Cleaning and Preprocessing  
 - Exploratory Data Analysis (EDA)  
