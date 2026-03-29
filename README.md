@@ -22,11 +22,11 @@ This repository showcases my data analytics projects, where I apply statistical 
 
 #### **`2. Analyzing the Sales and Profitability Drivers in a Superstore`** 
 
-🔗 
+🔗 [https://github.com/Pooja-Shan/My_Work_Portfolio-/tree/main/Analyzing%20the%20Sales%20and%20Profitability%20Drivers%20in%20a%20Superstore]
 - Analyzed 9,994 customers' orders to identify the key drivers for the sales and profitability of a Superstore.
 - Conducted Structured Query Language (SQL) Analysis and Exploratory Data Analysis on the dataset
 - Calculated the `Profit Margin` to analyze how profitable the Superstore is.
-- Built a Power BI Report - 🔗 (that analyzes the relationship of discounting on the Superstore's profitability and tracks key KPIs like Sales, profit and profit margin of the business and a line chart to show the yearly profit margin trend.)
+- Built a Power BI Report - 🔗 [https://github.com/Pooja-Shan/My_Work_Portfolio-/blob/main/Analyzing%20the%20Sales%20and%20Profitability%20Drivers%20in%20a%20Superstore/Analyzing%20the%20Sales%20and%20Profitability%20Drivers%20in%20a%20Superstore%20-%20Report.pbix] (that analyzes the relationship of discounting on the Superstore's profitability and tracks key KPIs like Sales, profit and profit margin of the business and a line chart to show the yearly profit margin trend.)
 - Provided key insights and business recommendations in both the Jupyter Notebook and Power BI report to improve the current moderate profit margin of the Superstore.
 
   **Note -** The tools used in this project were =
