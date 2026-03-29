@@ -18,12 +18,15 @@ This dataset was sourced from Kaggle - 🔗 https://www.kaggle.com/datasets/vive
 - Built a Power BI report with a scatter plot, key KPIs, a line chart and text boxes
 
 🔍 **Key Insights -**
+
 Heavy discounting strategies **`(>20%)`** are the key behind a `moderate profit margin of 12.47%`. Tables and Bookcases are the major loss-making sub-category of products.
 
 💡**Business Recommendations -**
+
 Focus on optimizing discounting strategies to improve profit margins by more than 20% or discontinue loss-making products if profitability cannot be improved. 
 
 🪛 **Tools Used -**
+
 MS Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) and Power BI
 
 - Key Insights and Business Recommendations
