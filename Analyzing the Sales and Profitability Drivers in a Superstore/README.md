@@ -27,7 +27,7 @@ Focus on optimizing discounting strategies to improve profit margins by more tha
 
 🪛 **Tools Used -**
 
-MS Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, sqlite3) and Power BI
+MS Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Sqlite3) and Power BI
 
 - Key Insights and Business Recommendations
 
